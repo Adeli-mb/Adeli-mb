@@ -13,7 +13,7 @@ Having spent over a year in industry in both the public sector (in product safet
 - [<b>Computational Fluid Dynamics</b>](https://github.com/Adeli-mb/Computational-Fluid-Dynamics/blob/main/README.md)
 - [<b>Finite Element Analysis</b>](https://github.com/Adeli-mb/Finite-Element-Analysis-FEA-/blob/main/README.md)
 - [<b>Integrated Design Project 2</b>](https://github.com/joshmadakor1/AD_PS)
-- [<b>Mechanical Design A</b>](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- [<b>Mechanical Design A</b>](https://github.com/Adeli-mb/Mechanical-Design-A/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
