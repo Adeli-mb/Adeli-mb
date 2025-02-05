@@ -14,8 +14,6 @@ Having spent over a year in industry in both the public sector (in product safet
 - [<b>Finite Element Analysis</b>](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - [<b>Integrated Design Project 2</b>](https://github.com/joshmadakor1/AD_PS)
 - [<b>Mechanical Design A</b>](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware P
 
 <h2> 🤳 Connect with me:</h2>
 
