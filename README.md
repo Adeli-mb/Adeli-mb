@@ -9,7 +9,7 @@ Having spent over a year in industry in both the public sector (in product safet
 
 <h2> Engineering Projects:</h2>
 
-- [<b>Mechanical Design B</b>](https://github.com/joshmadakor1/Algorithms-Practice)
+- [<b>Mechanical Design B</b>](https://github.com/Adeli-mb/Mechanical-Design-B/blob/main/README.md)
 - [<b>Computational Fluid Dynamics</b>](https://github.com/joshmadakor1/Sentinel-Lab)
 - [<b>Finite Element Analysis</b>](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - [<b>Integrated Design Project 2</b>](https://github.com/joshmadakor1/AD_PS)
